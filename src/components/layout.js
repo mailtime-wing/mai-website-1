@@ -7,6 +7,7 @@ import "typeface-roboto"
 import "typeface-barlow-condensed"
 
 import Header from "@/components/Header"
+import Footer from "@/components/Footer"
 
 const global = theme => css`
   html {
@@ -37,6 +38,7 @@ const Layout = ({ children, headerMode }) => {
       >
         <Link to="/press">Press</Link>
       </footer>
+      <Footer />
     </>
   )
 }

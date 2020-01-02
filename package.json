@@ -6,6 +6,7 @@
   "author": "Maxi Cho <maxi@mailtime.com>",
   "dependencies": {
     "@emotion/core": "^10.0.22",
+    "@reach/menu-button": "^0.7.0",
     "echarts": "^4.5.0",
     "echarts-for-react": "^2.0.15-beta.1",
     "emotion-theming": "^10.0.19",
