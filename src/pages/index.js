@@ -12,6 +12,8 @@ import WhatSection from "@/components/WhatSection"
 import WhoSection from "@/components/WhoSection"
 import DataReportSection from "@/components/DataReportSection"
 import LogosSection from "@/components/LogosSection"
+import GetStarted from "@/components/GetStarted"
+import Subscribe from "@/components/Subscribe"
 
 const background = theme => css`
   background-image: ${theme.linearGradients.purpleDarkToLight};
@@ -69,7 +71,8 @@ const IndexPage = () => {
         css={lastSection}
         slopedBackgroundColor={theme.colors.greens.light}
       >
-        <p>Section 7</p>
+        <GetStarted />
+        <Subscribe />
       </SlopedSection>
     </Layout>
   )
