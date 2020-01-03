@@ -62,5 +62,10 @@
   "press": "PRESS",
   "privacyPolicy": "PRIVACY  POLICY",
   "termsOfUse": "TERMS OF USE",
-  "AllRightsReserved": "ALL RIGHTS RESERVED © 2019 Measurable AI"
+  "AllRightsReserved": "ALL RIGHTS RESERVED © 2019 Measurable AI",
+
+  "connectingTheDots": "Connecting the dots with",
+  "alternativeData": "ALTERNATIVE DATA",
+  "a": "A",
+  "providesActionableConsumer": "that provides actionable consumer insights based on transactional data."
 }
